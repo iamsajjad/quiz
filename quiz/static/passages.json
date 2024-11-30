@@ -1,0 +1,692 @@
+[
+  {
+    "title": "The Industrial Revolution",
+    "passage": "The Industrial Revolution, which began in the late 18th century in Britain, marked a significant shift from agrarian economies to industrialized societies. This era saw the rise of factories, powered by innovations such as the steam engine and advancements in textile manufacturing. Urbanization surged as people moved from rural areas to cities in search of work, leading to the growth of industrial hubs. However, this period was not without its challenges. Harsh working conditions, child labor, and environmental degradation became widespread issues. On the brighter side, the Industrial Revolution catalyzed economic growth, technological innovation, and improvements in transportation, such as the development of railroads. This transformative era not only reshaped economies but also laid the foundation for modern industrial practices.",
+    "questions": [
+      {
+        "question": "Where did the Industrial Revolution first begin?",
+        "options": [
+          "Germany",
+          "France",
+          "Britain",
+          "United States"
+        ],
+        "correct": "Britain"
+      },
+      {
+        "question": "What major innovation powered factories during the Industrial Revolution?",
+        "options": [
+          "Electric motors",
+          "Steam engines",
+          "Solar panels",
+          "Combustion engines"
+        ],
+        "correct": "Steam engines"
+      },
+      {
+        "question": "Which of the following was a negative consequence of the Industrial Revolution?",
+        "options": [
+          "Technological advancements",
+          "Economic growth",
+          "Harsh working conditions",
+          "Urbanization"
+        ],
+        "correct": "Harsh working conditions"
+      },
+      {
+        "question": "What transportation development is associated with the Industrial Revolution?",
+        "options": [
+          "Automobiles",
+          "Railroads",
+          "Airplanes",
+          "Bicycles"
+        ],
+        "correct": "Railroads"
+      }
+    ]
+  },
+  {
+    "title": "The Solar System",
+    "passage": "The solar system is a complex arrangement of celestial bodies orbiting the Sun, which lies at its center. It comprises eight planets, moons, asteroids, comets, and dwarf planets like Pluto. The four inner planets\u2014Mercury, Venus, Earth, and Mars\u2014are rocky, while the outer planets\u2014Jupiter, Saturn, Uranus, and Neptune\u2014are gas giants. Each planet follows an elliptical orbit, held in place by the Sun's gravitational pull. The asteroid belt between Mars and Jupiter is another significant feature of the solar system. Scientists continue to study these celestial bodies to understand the origins of the solar system and search for signs of extraterrestrial life.",
+    "questions": [
+      {
+        "question": "How many planets are in the solar system?",
+        "options": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "correct": "8"
+      },
+      {
+        "question": "What separates Mars and Jupiter in the solar system?",
+        "options": [
+          "The Kuiper Belt",
+          "The Oort Cloud",
+          "The asteroid belt",
+          "The Van Allen belt"
+        ],
+        "correct": "The asteroid belt"
+      },
+      {
+        "question": "Which planet is a gas giant?",
+        "options": [
+          "Venus",
+          "Mars",
+          "Saturn",
+          "Earth"
+        ],
+        "correct": "Saturn"
+      },
+      {
+        "question": "What force keeps the planets in orbit around the Sun?",
+        "options": [
+          "Magnetic force",
+          "Electromagnetic force",
+          "Gravitational pull",
+          "Centripetal force"
+        ],
+        "correct": "Gravitational pull"
+      }
+    ]
+  },
+  {
+    "title": "The Water Cycle",
+    "passage": "The water cycle, also known as the hydrological cycle, describes the continuous movement of water on, above, and below the Earth's surface. This cycle consists of several stages: evaporation, condensation, precipitation, infiltration, and runoff. Water from oceans, lakes, and rivers evaporates due to the Sun's heat, turning into water vapor. This vapor cools and condenses to form clouds, which eventually lead to precipitation in the form of rain, snow, or hail. Some of this water infiltrates the ground, replenishing aquifers, while the rest flows back into water bodies as runoff. The water cycle is crucial for maintaining life and ecosystems on Earth.",
+    "questions": [
+      {
+        "question": "What is another name for the water cycle?",
+        "options": [
+          "Hydrological cycle",
+          "Geological cycle",
+          "Carbon cycle",
+          "Nitrogen cycle"
+        ],
+        "correct": "Hydrological cycle"
+      },
+      {
+        "question": "Which stage of the water cycle involves water turning into vapor?",
+        "options": [
+          "Precipitation",
+          "Condensation",
+          "Evaporation",
+          "Runoff"
+        ],
+        "correct": "Evaporation"
+      },
+      {
+        "question": "What form does water take during precipitation?",
+        "options": [
+          "Gas",
+          "Vapor",
+          "Liquid or solid",
+          "Plasma"
+        ],
+        "correct": "Liquid or solid"
+      },
+      {
+        "question": "What natural force drives the water cycle?",
+        "options": [
+          "Earth's rotation",
+          "Solar energy",
+          "Gravitational pull",
+          "Magnetic fields"
+        ],
+        "correct": "Solar energy"
+      }
+    ]
+  },
+  {
+    "title": "Photosynthesis",
+    "passage": "Photosynthesis is a process used by plants, algae, and some bacteria to convert light energy into chemical energy stored in glucose. This process occurs in chloroplasts, where chlorophyll absorbs sunlight. During photosynthesis, plants take in carbon dioxide from the atmosphere and water from the soil. These inputs, along with sunlight, produce glucose and release oxygen as a byproduct. Photosynthesis is vital because it provides energy for plants and oxygen for animals and humans. It is also a key driver of the carbon cycle.",
+    "questions": [
+      {
+        "question": "Where does photosynthesis primarily occur in plants?",
+        "options": [
+          "Roots",
+          "Chloroplasts",
+          "Stems",
+          "Flowers"
+        ],
+        "correct": "Chloroplasts"
+      },
+      {
+        "question": "What is a byproduct of photosynthesis?",
+        "options": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Sulfur"
+        ],
+        "correct": "Oxygen"
+      },
+      {
+        "question": "Which molecule is produced during photosynthesis?",
+        "options": [
+          "Glucose",
+          "Protein",
+          "Fat",
+          "Starch"
+        ],
+        "correct": "Glucose"
+      },
+      {
+        "question": "What drives the process of photosynthesis?",
+        "options": [
+          "Soil nutrients",
+          "Sunlight",
+          "Gravity",
+          "Water pressure"
+        ],
+        "correct": "Sunlight"
+      }
+    ]
+  },
+  {
+    "title": "The Great Wall of China",
+    "passage": "The Great Wall of China is one of the most iconic structures in the world. Built over several dynasties, it spans thousands of miles across northern China. Initially constructed to protect Chinese states from invasions, the wall also served as a means to regulate trade and immigration. Made primarily of stone, brick, and wood, its construction reflects the ingenuity of ancient Chinese engineering. While some sections have deteriorated over time, the Great Wall remains a symbol of China's historical and cultural heritage.",
+    "questions": [
+      {
+        "question": "What was the primary purpose of the Great Wall of China?",
+        "options": [
+          "Decorative architecture",
+          "Protecting Chinese states",
+          "Housing soldiers",
+          "Religious ceremonies"
+        ],
+        "correct": "Protecting Chinese states"
+      },
+      {
+        "question": "What materials were used in constructing the Great Wall?",
+        "options": [
+          "Concrete and glass",
+          "Stone, brick, and wood",
+          "Iron and steel",
+          "Marble and granite"
+        ],
+        "correct": "Stone, brick, and wood"
+      },
+      {
+        "question": "Which country is home to the Great Wall?",
+        "options": [
+          "Japan",
+          "India",
+          "China",
+          "Mongolia"
+        ],
+        "correct": "China"
+      },
+      {
+        "question": "What does the Great Wall symbolize?",
+        "options": [
+          "Modern innovation",
+          "Ancient engineering",
+          "Economic growth",
+          "Space exploration"
+        ],
+        "correct": "Ancient engineering"
+      }
+    ]
+  },
+  {
+    "title": "The Human Circulatory System",
+    "passage": "The human circulatory system is responsible for transporting blood, nutrients, oxygen, and waste products throughout the body. It consists of the heart, blood vessels, and blood. The heart acts as a pump, pushing oxygenated blood through arteries to the body's tissues. Veins then carry deoxygenated blood back to the heart. Capillaries, the smallest blood vessels, facilitate the exchange of oxygen, nutrients, and waste. The circulatory system is vital for maintaining homeostasis and supporting overall health.",
+    "questions": [
+      {
+        "question": "What is the primary function of the circulatory system?",
+        "options": [
+          "Digestion",
+          "Transporting nutrients and oxygen",
+          "Regulating hormones",
+          "Fighting infections"
+        ],
+        "correct": "Transporting nutrients and oxygen"
+      },
+      {
+        "question": "What is the main pumping organ of the circulatory system?",
+        "options": [
+          "Brain",
+          "Kidney",
+          "Heart",
+          "Liver"
+        ],
+        "correct": "Heart"
+      },
+      {
+        "question": "Which type of blood vessel carries oxygenated blood away from the heart?",
+        "options": [
+          "Veins",
+          "Arteries",
+          "Capillaries",
+          "Lymph vessels"
+        ],
+        "correct": "Arteries"
+      },
+      {
+        "question": "What do capillaries facilitate?",
+        "options": [
+          "Hormone production",
+          "Blood clotting",
+          "Exchange of oxygen and nutrients",
+          "Bone repair"
+        ],
+        "correct": "Exchange of oxygen and nutrients"
+      }
+    ]
+  },
+  {
+    "title": "Mount Everest",
+    "passage": "Mount Everest, the highest peak on Earth, stands at 8,849 meters above sea level. Located in the Himalayas, it lies on the border between Nepal and the Tibet Autonomous Region of China. Known as 'Sagarmatha' in Nepalese and 'Chomolungma' in Tibetan, the mountain attracts climbers from around the world. The first successful ascent was achieved by Sir Edmund Hillary and Tenzing Norgay in 1953. Climbing Mount Everest requires physical endurance and mental resilience due to extreme weather conditions and low oxygen levels.",
+    "questions": [
+      {
+        "question": "What is the height of Mount Everest?",
+        "options": [
+          "7,000 meters",
+          "8,849 meters",
+          "9,000 meters",
+          "6,800 meters"
+        ],
+        "correct": "8,849 meters"
+      },
+      {
+        "question": "Where is Mount Everest located?",
+        "options": [
+          "Andes",
+          "Alps",
+          "Himalayas",
+          "Rockies"
+        ],
+        "correct": "Himalayas"
+      },
+      {
+        "question": "Who were the first people to successfully climb Mount Everest?",
+        "options": [
+          "George Mallory and Andrew Irvine",
+          "Reinhold Messner and Peter Habeler",
+          "Sir Edmund Hillary and Tenzing Norgay",
+          "Junko Tabei and Ang Tshering"
+        ],
+        "correct": "Sir Edmund Hillary and Tenzing Norgay"
+      },
+      {
+        "question": "What is another name for Mount Everest in Nepalese?",
+        "options": [
+          "Chomolungma",
+          "Sagarmatha",
+          "Annapurna",
+          "Kangchenjunga"
+        ],
+        "correct": "Sagarmatha"
+      }
+    ]
+  },
+  {
+    "title": "Global Warming",
+    "passage": "Global warming refers to the increase in Earth's average surface temperature due to the accumulation of greenhouse gases like carbon dioxide, methane, and nitrous oxide. These gases trap heat in the atmosphere, leading to climate change and extreme weather events. Major contributors include the burning of fossil fuels, deforestation, and industrial activities. Effects of global warming include rising sea levels, melting ice caps, and disrupted ecosystems. Efforts to combat global warming include renewable energy use, reforestation, and reducing carbon emissions.",
+    "questions": [
+      {
+        "question": "What is global warming?",
+        "options": [
+          "Decrease in Earth's temperature",
+          "Increase in Earth's average temperature",
+          "Stabilization of global climates",
+          "Cooling of polar regions"
+        ],
+        "correct": "Increase in Earth's average temperature"
+      },
+      {
+        "question": "Which gas is a major contributor to global warming?",
+        "options": [
+          "Helium",
+          "Carbon dioxide",
+          "Neon",
+          "Argon"
+        ],
+        "correct": "Carbon dioxide"
+      },
+      {
+        "question": "What is one effect of global warming?",
+        "options": [
+          "Lower sea levels",
+          "Stable ecosystems",
+          "Melting ice caps",
+          "Decreased rainfall"
+        ],
+        "correct": "Melting ice caps"
+      },
+      {
+        "question": "Which action can help reduce global warming?",
+        "options": [
+          "Burning more coal",
+          "Increasing deforestation",
+          "Using renewable energy",
+          "Expanding urban areas"
+        ],
+        "correct": "Using renewable energy"
+      }
+    ]
+  },
+  {
+    "title": "The Amazon Rainforest",
+    "passage": "The Amazon Rainforest, often called the 'lungs of the Earth,' spans over 5.5 million square kilometers in South America. It is home to diverse flora and fauna, many of which are found nowhere else on the planet. The rainforest plays a crucial role in regulating the Earth's climate by absorbing large amounts of carbon dioxide. However, deforestation due to agriculture, logging, and mining poses significant threats. Conservation efforts are critical to preserving this vital ecosystem.",
+    "questions": [
+      {
+        "question": "What nickname is given to the Amazon Rainforest?",
+        "options": [
+          "The Heart of the World",
+          "The Lungs of the Earth",
+          "The Breadbasket of the Planet",
+          "The Oasis of Life"
+        ],
+        "correct": "The Lungs of the Earth"
+      },
+      {
+        "question": "Where is the Amazon Rainforest primarily located?",
+        "options": [
+          "Africa",
+          "Asia",
+          "South America",
+          "Australia"
+        ],
+        "correct": "South America"
+      },
+      {
+        "question": "What is a major threat to the Amazon Rainforest?",
+        "options": [
+          "Urbanization",
+          "Deforestation",
+          "Overfishing",
+          "Desertification"
+        ],
+        "correct": "Deforestation"
+      },
+      {
+        "question": "What role does the Amazon Rainforest play in Earth's climate?",
+        "options": [
+          "Increasing global temperatures",
+          "Absorbing carbon dioxide",
+          "Producing fossil fuels",
+          "Creating artificial habitats"
+        ],
+        "correct": "Absorbing carbon dioxide"
+      }
+    ]
+  },
+  {
+    "title": "The Theory of Evolution",
+    "passage": "Proposed by Charles Darwin in the 19th century, the theory of evolution explains how species evolve over time through natural selection. Organisms with traits better suited to their environments are more likely to survive and reproduce, passing those advantageous traits to the next generation. This process leads to the development of new species and the extinction of others. Darwin's observations during his voyage on the HMS Beagle, particularly in the Gal\u00e1pagos Islands, provided critical evidence for his theory.",
+    "questions": [
+      {
+        "question": "Who proposed the theory of evolution?",
+        "options": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Charles Darwin",
+          "Gregor Mendel"
+        ],
+        "correct": "Charles Darwin"
+      },
+      {
+        "question": "What mechanism drives evolution according to Darwin's theory?",
+        "options": [
+          "Artificial selection",
+          "Natural selection",
+          "Genetic engineering",
+          "Cloning"
+        ],
+        "correct": "Natural selection"
+      },
+      {
+        "question": "What kind of traits are passed on in evolution?",
+        "options": [
+          "Disadvantageous traits",
+          "Traits suited to the environment",
+          "Random traits",
+          "Unchanging traits"
+        ],
+        "correct": "Traits suited to the environment"
+      },
+      {
+        "question": "Where did Darwin gather much of his evidence for his theory?",
+        "options": [
+          "Antarctica",
+          "The Himalayas",
+          "The Gal\u00e1pagos Islands",
+          "The Amazon Rainforest"
+        ],
+        "correct": "The Gal\u00e1pagos Islands"
+      }
+    ]
+  },
+  {
+    "title": "World War II",
+    "passage": "World War II (1939\u20131945) was a global conflict involving the Allied Powers, led by the United States, the Soviet Union, and the United Kingdom, and the Axis Powers, led by Germany, Japan, and Italy. The war began when Germany, under Adolf Hitler, invaded Poland. Key events include the Battle of Stalingrad, the D-Day invasion, and the atomic bombings of Hiroshima and Nagasaki. The war ended with the unconditional surrender of the Axis Powers, leaving millions dead and reshaping global politics.",
+    "questions": [
+      {
+        "question": "When did World War II begin?",
+        "options": [
+          "1940",
+          "1939",
+          "1941",
+          "1945"
+        ],
+        "correct": "1939"
+      },
+      {
+        "question": "Which countries were part of the Axis Powers?",
+        "options": [
+          "United States, UK, Soviet Union",
+          "Germany, Japan, Italy",
+          "France, China, Australia",
+          "Canada, India, Brazil"
+        ],
+        "correct": "Germany, Japan, Italy"
+      },
+      {
+        "question": "What marked the end of World War II?",
+        "options": [
+          "Fall of Berlin",
+          "Surrender of Japan",
+          "Atomic bombings",
+          "All of the above"
+        ],
+        "correct": "All of the above"
+      },
+      {
+        "question": "Who led Germany during World War II?",
+        "options": [
+          "Winston Churchill",
+          "Franklin D. Roosevelt",
+          "Adolf Hitler",
+          "Joseph Stalin"
+        ],
+        "correct": "Adolf Hitler"
+      }
+    ]
+  },
+  {
+    "title": "The Internet",
+    "passage": "The Internet is a global network of interconnected computers that allows users to share information and communicate worldwide. It began as a project called ARPANET in the late 1960s, developed by the U.S. Department of Defense. Over time, it evolved into the World Wide Web, thanks to innovations by scientists like Tim Berners-Lee. Today, the Internet plays a crucial role in education, business, entertainment, and social interaction, revolutionizing how people connect and access knowledge.",
+    "questions": [
+      {
+        "question": "What was the original name of the Internet?",
+        "options": [
+          "ARPANET",
+          "WEBNET",
+          "CYBERNET",
+          "GLOBALNET"
+        ],
+        "correct": "ARPANET"
+      },
+      {
+        "question": "Who is credited with creating the World Wide Web?",
+        "options": [
+          "Steve Jobs",
+          "Tim Berners-Lee",
+          "Bill Gates",
+          "Elon Musk"
+        ],
+        "correct": "Tim Berners-Lee"
+      },
+      {
+        "question": "What is the primary function of the Internet?",
+        "options": [
+          "Storing physical items",
+          "Connecting global computers",
+          "Building electrical grids",
+          "Manufacturing hardware"
+        ],
+        "correct": "Connecting global computers"
+      },
+      {
+        "question": "In which decade did the Internet originate?",
+        "options": [
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s"
+        ],
+        "correct": "1960s"
+      }
+    ]
+  },
+  {
+    "title": "DNA",
+    "passage": "Deoxyribonucleic acid (DNA) is the molecule that carries genetic information in all living organisms. It is composed of two strands forming a double helix, with each strand made of nucleotides containing a sugar, phosphate, and a nitrogenous base (adenine, thymine, cytosine, guanine). DNA determines the traits of an organism and is passed from parents to offspring. The discovery of its structure by Watson and Crick in 1953 was a groundbreaking moment in biology.",
+    "questions": [
+      {
+        "question": "What does DNA stand for?",
+        "options": [
+          "Digital Neural Algorithm",
+          "Deoxyribonucleic Acid",
+          "Double Helix Assembly",
+          "Dynamic Nuclear Axis"
+        ],
+        "correct": "Deoxyribonucleic Acid"
+      },
+      {
+        "question": "What shape does DNA have?",
+        "options": [
+          "Linear",
+          "Spiral",
+          "Double helix",
+          "Circular"
+        ],
+        "correct": "Double helix"
+      },
+      {
+        "question": "Who discovered the structure of DNA?",
+        "options": [
+          "Charles Darwin",
+          "Watson and Crick",
+          "Marie Curie",
+          "Gregor Mendel"
+        ],
+        "correct": "Watson and Crick"
+      },
+      {
+        "question": "Which nitrogenous base pairs with thymine in DNA?",
+        "options": [
+          "Adenine",
+          "Cytosine",
+          "Guanine",
+          "Uracil"
+        ],
+        "correct": "Adenine"
+      }
+    ]
+  },
+  {
+    "title": "The French Revolution",
+    "passage": "The French Revolution (1789\u20131799) was a period of social and political upheaval in France. Triggered by economic hardship, inequality, and dissatisfaction with monarchy, it led to the overthrow of King Louis XVI and the establishment of a republic. Key events include the storming of the Bastille, the Reign of Terror, and the rise of Napoleon Bonaparte. The revolution reshaped France and inspired democratic movements worldwide.",
+    "questions": [
+      {
+        "question": "When did the French Revolution begin?",
+        "options": [
+          "1776",
+          "1789",
+          "1792",
+          "1804"
+        ],
+        "correct": "1789"
+      },
+      {
+        "question": "What event symbolized the start of the French Revolution?",
+        "options": [
+          "Execution of Louis XVI",
+          "Storming of the Bastille",
+          "Rise of Napoleon",
+          "Treaty of Versailles"
+        ],
+        "correct": "Storming of the Bastille"
+      },
+      {
+        "question": "What form of government replaced the monarchy during the revolution?",
+        "options": [
+          "Oligarchy",
+          "Democracy",
+          "Republic",
+          "Empire"
+        ],
+        "correct": "Republic"
+      },
+      {
+        "question": "Who emerged as a leader after the revolution?",
+        "options": [
+          "Robespierre",
+          "Napoleon Bonaparte",
+          "Lafayette",
+          "Danton"
+        ],
+        "correct": "Napoleon Bonaparte"
+      }
+    ]
+  },
+  {
+    "title": "Electricity",
+    "passage": "Electricity is a form of energy resulting from the movement of electrons. It powers modern life, from lighting homes to running industries. Electricity is generated using various sources, including fossil fuels, nuclear energy, and renewables like wind and solar. Key figures in the development of electricity include Michael Faraday, who discovered electromagnetic induction, and Thomas Edison, who popularized electric lighting.",
+    "questions": [
+      {
+        "question": "What causes electricity?",
+        "options": [
+          "Movement of atoms",
+          "Movement of electrons",
+          "Fusion of nuclei",
+          "Rotation of planets"
+        ],
+        "correct": "Movement of electrons"
+      },
+      {
+        "question": "Which renewable source is used to generate electricity?",
+        "options": [
+          "Coal",
+          "Wind",
+          "Oil",
+          "Natural gas"
+        ],
+        "correct": "Wind"
+      },
+      {
+        "question": "Who discovered electromagnetic induction?",
+        "options": [
+          "Nikola Tesla",
+          "Michael Faraday",
+          "Thomas Edison",
+          "James Watt"
+        ],
+        "correct": "Michael Faraday"
+      },
+      {
+        "question": "What device is commonly used to store electricity?",
+        "options": [
+          "Generator",
+          "Battery",
+          "Turbine",
+          "Motor"
+        ],
+        "correct": "Battery"
+      }
+    ]
+  }
+]

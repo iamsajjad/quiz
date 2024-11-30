@@ -1,0 +1,34 @@
+
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passages Quiz</title>
+    <link href="{% static 'passages.css' %}" rel="stylesheet">
+</head>
+<body onload="fetchPassages('{% static 'passages.json' %}')">
+    <header id="timer-display"></header>
+    <div id="quiz-container">
+        <!-- Sidebar -->
+        <aside id="sidebar">
+            <h2>Passages</h2>
+            <ul id="passage-list">
+                <!-- Passage navigation links will be populated dynamically -->
+            </ul>
+            <button id="submit-btn" class="submit-btn">Submit</button>
+        </aside>
+        
+        <!-- Main Quiz Area -->
+        <main id="quiz-main">
+            <div id="passage-area">
+                <!-- Passage content and questions will be dynamically loaded here -->
+            </div>
+        </main>
+    </div>
+
+    <script src="{% static 'passages.js' %}"></script>
+</body>
+</html>

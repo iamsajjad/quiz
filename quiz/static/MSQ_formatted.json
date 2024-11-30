@@ -1,0 +1,562 @@
+[
+  {
+    "question": "True or False: The capital of the United States is Washington, D.C.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Marie Curie",
+      "Louis Pasteur",
+      "Isaac Newton"
+    ],
+    "correct": "Alexander Fleming"
+  },
+  {
+    "question": "What is the national flower of Japan?",
+    "options": [
+      "Cherry Blossom",
+      "Lotus",
+      "Rose",
+      "Lily"
+    ],
+    "correct": "Cherry Blossom"
+  },
+  {
+    "question": "What type of sentence is this: 'Wow, what a beautiful view!'?",
+    "options": [
+      "Exclamatory",
+      "Imperative",
+      "Declarative",
+      "Interrogative"
+    ],
+    "correct": "Exclamatory"
+  },
+  {
+    "question": "True or False: The Sun is a planet.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "What is the tallest building in the world?",
+    "options": [
+      "Burj Khalifa",
+      "Shanghai Tower",
+      "Taipei 101",
+      "Willis Tower"
+    ],
+    "correct": "Burj Khalifa"
+  },
+  {
+    "question": "True or False: The Earth revolves around the Sun.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "What is the correct spelling?",
+    "options": [
+      "accommodation",
+      "acommodation",
+      "accomodation",
+      "acomodation"
+    ],
+    "correct": "accommodation"
+  },
+  {
+    "question": "What is the plural form of 'child'?",
+    "options": [
+      "Children",
+      "Childs",
+      "Child",
+      "Childrens"
+    ],
+    "correct": "Children"
+  },
+  {
+    "question": "What is the correct possessive form?",
+    "options": [
+      "The cat\u2019s whiskers",
+      "The cats whiskers",
+      "The cat whiskers",
+      "The cats\u2019 whiskers"
+    ],
+    "correct": "The cat\u2019s whiskers"
+  },
+  {
+    "question": "Which word is a synonym for 'happy'?",
+    "options": [
+      "Joyful",
+      "Sad",
+      "Angry",
+      "Tired"
+    ],
+    "correct": "Joyful"
+  },
+  {
+    "question": "True or False: A leap year occurs every 4 years.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "True or False: The Pacific Ocean is the largest ocean.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct": "Pacific Ocean"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correct": "New Delhi"
+  },
+  {
+    "question": "What is the most widely spoken language in the world?",
+    "options": [
+      "Mandarin",
+      "English",
+      "Hindi",
+      "Spanish"
+    ],
+    "correct": "Mandarin"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Pb"
+    ],
+    "correct": "Au"
+  },
+  {
+    "question": "True or False: Coffee is made from beans.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correct": "Nile"
+  },
+  {
+    "question": "True or False: The Sahara Desert is located in Asia.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "What is the past tense of 'run'?",
+    "options": [
+      "ran",
+      "running",
+      "runned",
+      "runs"
+    ],
+    "correct": "ran"
+  },
+  {
+    "question": "What is the smallest planet in the solar system?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Venus",
+      "Pluto"
+    ],
+    "correct": "Mercury"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      "Pound Sterling",
+      "Euro",
+      "Dollar",
+      "Yen"
+    ],
+    "correct": "Pound Sterling"
+  },
+  {
+    "question": "What is the comparative form of 'bad'?",
+    "options": [
+      "worse",
+      "worst",
+      "bader",
+      "badder"
+    ],
+    "correct": "worse"
+  },
+  {
+    "question": "True or False: Water is a compound of hydrogen and oxygen.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correct": "Mars"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "London",
+      "Rome",
+      "Berlin"
+    ],
+    "correct": "Paris"
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "The dogs bark loudly.",
+      "The dog barks loudly.",
+      "The dog bark loudly.",
+      "The dogs barks loudly."
+    ],
+    "correct": "The dog barks loudly."
+  },
+  {
+    "question": "Choose the correct sentence: 'I _____ to the store yesterday.'",
+    "options": [
+      "went",
+      "go",
+      "gone",
+      "going"
+    ],
+    "correct": "went"
+  },
+  {
+    "question": "Identify the verb in this sentence: 'The dog barks loudly.'",
+    "options": [
+      "barks",
+      "dog",
+      "loudly",
+      "the"
+    ],
+    "correct": "barks"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correct": "William Shakespeare"
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "She doesn\u2019t like coffee.",
+      "She don\u2019t like coffee.",
+      "She doesn\u2019t likes coffee.",
+      "She doesn\u2019t liking coffee."
+    ],
+    "correct": "She doesn\u2019t like coffee."
+  },
+  {
+    "question": "Which sentence uses correct punctuation?",
+    "options": [
+      "It\u2019s a beautiful day!",
+      "Its a beautiful day.",
+      "Its a beautiful day!",
+      "It\u2019s a beautiful day."
+    ],
+    "correct": "It\u2019s a beautiful day!"
+  },
+  {
+    "question": "What is the correct spelling?",
+    "options": [
+      "necessary",
+      "neccessary",
+      "necesary",
+      "nescessary"
+    ],
+    "correct": "necessary"
+  },
+  {
+    "question": "True or False: Albert Einstein developed the theory of relativity.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "True or False: The boiling point of water is 100\u00b0C.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "True or False: The Eiffel Tower is located in Germany.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "True or False: The Great Wall of China is visible from the moon.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "True or False: A triangle has three sides.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Kyoto",
+      "Nagoya"
+    ],
+    "correct": "Tokyo"
+  },
+  {
+    "question": "True or False: The Eiffel Tower is in Paris.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "What is the superlative form of 'fast'?",
+    "options": [
+      "fastest",
+      "faster",
+      "fast",
+      "most fast"
+    ],
+    "correct": "fastest"
+  },
+  {
+    "question": "Who is the author of 'Pride and Prejudice'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Louisa May Alcott"
+    ],
+    "correct": "Jane Austen"
+  },
+  {
+    "question": "True or False: Dolphins are mammals.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "What is the past participle of 'eat'?",
+    "options": [
+      "eaten",
+      "ate",
+      "eating",
+      "eats"
+    ],
+    "correct": "eaten"
+  },
+  {
+    "question": "True or False: Water freezes at 0\u00b0C.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correct": "Leonardo da Vinci"
+  },
+  {
+    "question": "Choose the correct verb: 'She _____ the piano beautifully.'",
+    "options": [
+      "plays",
+      "play",
+      "played",
+      "playing"
+    ],
+    "correct": "plays"
+  },
+  {
+    "question": "True or False: Mount Everest is located in Nepal.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "True or False: Oxygen is needed for humans to survive.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "What is the plural of 'mouse'?",
+    "options": [
+      "mice",
+      "mouses",
+      "mouse",
+      "mices"
+    ],
+    "correct": "mice"
+  },
+  {
+    "question": "Which element has the chemical symbol 'N'?",
+    "options": [
+      "Nitrogen",
+      "Nickel",
+      "Neon",
+      "Sodium"
+    ],
+    "correct": "Nitrogen"
+  },
+  {
+    "question": "Which sentence uses a correct article?",
+    "options": [
+      "She bought an apple.",
+      "She bought a apple.",
+      "She bought apple.",
+      "She bought the apple."
+    ],
+    "correct": "She bought an apple."
+  },
+  {
+    "question": "What type of sentence is this: 'Close the door.'?",
+    "options": [
+      "Imperative",
+      "Declarative",
+      "Interrogative",
+      "Exclamatory"
+    ],
+    "correct": "Imperative"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Dorothy Hodgkin"
+    ],
+    "correct": "Marie Curie"
+  },
+  {
+    "question": "True or False: Cats are mammals.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "True"
+  },
+  {
+    "question": "Identify the adjective: 'The bright star shone in the sky.'",
+    "options": [
+      "bright",
+      "star",
+      "shone",
+      "sky"
+    ],
+    "correct": "bright"
+  },
+  {
+    "question": "True or False: The Great Wall of China can be seen from space.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": "False"
+  },
+  {
+    "question": "What is the largest mammal?",
+    "options": [
+      "Blue Whale",
+      "Elephant",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct": "Blue Whale"
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Leonardo da Vinci"
+    ],
+    "correct": "Vincent van Gogh"
+  }
+]

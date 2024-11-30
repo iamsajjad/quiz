@@ -1,0 +1,43 @@
+
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Quiz</title>
+    <link href="{% static 'styles.css' %}" rel="stylesheet">
+</head>
+<body onload="fetchQuestions('{% static 'MSQ_formatted.json' %}')">
+    <div id="quiz-container">
+        <!-- Timer -->
+        <header>
+            <div id="timer">Time Left: <span id="timer-display">10:00</span></div>
+        </header>
+
+        <!-- Sidebar -->
+        <aside id="sidebar">
+            <h2>Questions</h2>
+            <ul id="question-list">
+                <!-- Questions navigation will be populated dynamically -->
+            </ul>
+        </aside>
+        
+        <!-- Main Quiz Area -->
+        <main id="quiz-main">
+            <div id="question-area">
+                <!-- Questions will be dynamically loaded here -->
+            </div>
+            <div id="quiz-navigation">
+                <button id="back-btn" class="nav-btn">Back</button>
+                <button id="next-btn" class="nav-btn">Next</button>
+                <button id="submit-btn" class="submit-btn">Submit</button>
+            </div>
+        </main>
+    </div>
+
+    <script src="{% static 'script.js' %}"></script>
+
+</body>
+</html>
